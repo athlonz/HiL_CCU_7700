@@ -2,7 +2,7 @@
 * target:ast7700  	 
 * filename: main.c 
 * Copyright 2018-2021 IEE-CAS, Inc.
-* description: Ö÷³ÌÐò,Interrupt occurs every 7200Hz, SVM applied 
+* description: HiL CCU 7700board code
 * function: running on the half simulation system
 * debug:
 * modification history£º
